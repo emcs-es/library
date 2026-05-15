@@ -1,0 +1,29 @@
+
+Manual de usuario – Dashboard ArcGIS
+
+## Objetivo
+Generar un manual claro y profesional para usuarios no técnicos.
+
+## Cuándo usar este prompt
+Cuando se entrega un dashboard de ArcGIS Online a personal municipal o técnico no especialista.
+
+## Contexto
+Dashboard creado en ArcGIS Online con mapas, indicadores KPI y filtros interactivos.
+
+## Etiquetas
+#GIS #ArcGIS #ESRI #Dashboard #Documentación
+
+---
+
+## PROMPT
+
+Actúa como experto en GIS y documentación técnica.
+
+Genera un manual de usuario para un dashboard creado en ArcGIS Online.
+Explica:
+- Cada panel del dashboard
+- Indicadores
+- Filtros disponibles
+- Casos de uso reales
+
+Usa lenguaje claro, ejemplos prácticos y estructura profesional.
