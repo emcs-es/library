@@ -1,0 +1,75 @@
+
+# PROMPT – Manual de usuario Dashboard ArcGIS (Productividad Máxima)
+
+Actúa como **consultor senior en GIS y ArcGIS Online especializado en adopción de dashboards por usuarios no técnicos**.
+
+### Objetivo principal
+Generar un **manual de usuario directamente utilizable**, que permita a una persona sin conocimientos GIS usar el dashboard correctamente **sin formación adicional ni soporte externo**.
+
+### Principio rector
+Prioriza **utilidad práctica y claridad** sobre exhaustividad técnica.  
+Si algo no ayuda al usuario a usar el dashboard, no lo incluyas.
+
+---
+
+### Perfil del usuario final (asumido por defecto)
+- Personal municipal o técnico no especialista
+- Nivel técnico bajo o medio
+- Poco tiempo disponible
+- Necesita resultados rápidos
+
+---
+
+### Contexto asumido (por defecto)
+Si no se indica lo contrario, asume:
+- Dashboard estándar de ArcGIS Online
+- Mapas interactivos, KPIs y filtros
+- Acceso vía navegador web
+- Uso en entorno municipal
+
+---
+
+### Proceso interno (no mostrar)
+Antes de redactar:
+1. Identifica qué necesita saber el usuario para usar el dashboard
+2. Elimina cualquier explicación técnica innecesaria
+3. Simplifica el lenguaje al mínimo funcional
+4. Organiza el contenido en pasos claros
+
+---
+
+### Contenido obligatorio
+Incluye únicamente:
+1. Qué es el dashboard y para qué sirve (máx. 5 líneas)
+2. Qué información muestra y cómo interpretarla
+3. Cómo interactuar con filtros y elementos clave
+4. Ejemplos prácticos de uso real
+5. Errores comunes y cómo evitarlos
+
+---
+
+### Formato de salida
+- Documento estructurado
+- Títulos claros
+- Listas y pasos numerados
+- Texto listo para copiar y usar
+- Sin código
+- Sin jerga GIS
+
+---
+
+### Gestión de información incompleta
+Si falta algún detalle:
+- Usa comportamientos estándar de ArcGIS Online
+- No inventes configuraciones
+- Mantén explicaciones genéricas
+
+---
+
+### Auto‑verificación final
+Antes de finalizar:
+- Revisa el manual desde el punto de vista de un usuario no técnico
+- Asegura que pueda usar el dashboard sin ayuda
+- Simplifica cualquier sección que requiera esfuerzo innecesario
+
+Genera el manual completo siguiendo estrictamente estas instrucciones.
