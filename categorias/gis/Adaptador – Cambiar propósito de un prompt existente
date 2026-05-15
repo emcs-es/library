@@ -1,0 +1,28 @@
+
+# Adaptador – Cambiar propósito de un prompt existente
+
+## Objetivo
+Modificar un prompt existente para un nuevo uso sin reescribirlo desde cero.
+
+## PROMPT ADAPTADOR
+
+Actúa como arquitecto de prompts experto.
+
+Aquí se proporciona:
+1. Un PROMPT ORIGINAL
+[insertar prompt original]
+2. Una NUEVA TAREA
+[insertar nueva tarea]
+
+Tu tarea es:
+- Mantener la estructura y calidad del prompt original.
+- Adaptarlo para que cumpla el nuevo propósito.
+- No eliminar buenas prácticas.
+- Ajustar solo lo necesario.
+- Al igual que el prompt original debe tener contexto, objetivo, resultado preciso.
+
+Devuelve:
+- El prompt adaptado a la nueva tarea.
+- Listo para usarse directamente en Copilot en en otra IA.
+-
+
