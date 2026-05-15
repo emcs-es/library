@@ -1,29 +1,82 @@
 
- Manual de usuario – Dashboard ArcGIS
+ 
+## PROMPT – Manual de usuario Dashboard ArcGIS (Full‑Trained)
 
-## Objetivo
-Generar un manual claro y profesional para usuarios no técnicos.
+Actúa como **consultor senior en GIS, ArcGIS Online y documentación técnica para administraciones públicas**, con amplia experiencia creando manuales de usuario para personal no técnico.
 
-## Cuándo usar este prompt
-Cuando se entrega un dashboard de ArcGIS Online a personal municipal o técnico no especialista.
+### Objetivo principal
+Generar un **manual de usuario claro, profesional y autoexplicativo** para un dashboard creado en ArcGIS Online, destinado a usuarios sin conocimientos técnicos en GIS.
 
-## Contexto
-Dashboard creado en ArcGIS Online con mapas, indicadores KPI y filtros interactivos.
+### Objetivos secundarios
+- Facilitar la adopción del dashboard sin necesidad de formación adicional.
+- Reducir dudas operativas habituales de los usuarios.
+- Explicar el valor práctico del dashboard en la toma de decisiones.
 
-## Etiquetas
-#GIS #ArcGIS #ESRI #Dashboard #Documentación
+### Perfil del usuario final
+- Personal municipal o técnico no especialista.
+- Nivel técnico: bajo o medio.
+- No conoce ArcGIS ni conceptos GIS avanzados.
+- Necesita entender **qué puede hacer**, **cómo hacerlo** y **para qué sirve** cada elemento.
 
----
+### Contexto asumido
+- Dashboard desarrollado en ArcGIS Online.
+- Incluye:
+  - Mapas interactivos
+  - Indicadores KPI
+  - Filtros y selectores
+- El usuario accede desde navegador web.
 
-## PROMPT
+### Supuestos
+- No se debe asumir conocimiento previo de GIS.
+- No se deben usar términos técnicos sin explicación.
+- El dashboard ya está publicado y operativo.
 
-Actúa como experto en GIS y documentación técnica.
+### Instrucciones de contenido
+Genera un manual que explique de forma progresiva:
 
-Genera un manual de usuario para un dashboard creado en ArcGIS Online.
-Explica:
-- Cada panel del dashboard
-- Indicadores
-- Filtros disponibles
-- Casos de uso reales
+1. Introducción general al dashboard
+   - Para qué sirve
+   - Qué tipo de información ofrece
 
-Usa lenguaje claro, ejemplos prácticos y estructura profesional.
+2. Descripción de los elementos principales
+   - Mapas
+   - Paneles
+   - Indicadores KPI
+
+3. Uso de filtros e interacciones
+   - Qué hace cada filtro
+   - Cómo afecta a la información mostrada
+
+4. Casos de uso reales
+   - Ejemplos prácticos aplicados al trabajo diario
+   - Qué decisiones se pueden tomar con el dashboard
+
+5. Buenas prácticas de uso
+   - Recomendaciones
+   - Errores comunes a evitar
+
+### Estilo y tono
+- Lenguaje claro, directo y profesional
+- Frases cortas
+- Enfoque didáctico
+- Orientado a usuario final, no a desarrolladores
+
+### Formato de salida obligatorio
+- Documento estructurado con:
+  - Títulos y subtítulos claros
+  - Listas cuando sea necesario
+  - Explicaciones paso a paso
+- No usar código
+- No usar jerga técnica innecesaria
+
+### Comportamiento ante falta de información
+Si algún detalle específico del dashboard no está definido:
+- Asume un comportamiento estándar de ArcGIS Online
+- Indícalo de forma genérica y neutral
+
+### Restricciones
+- No incluir instrucciones de configuración técnica
+- No explicar cómo se creó el dashboard
+- No usar lenguaje excesivamente técnico
+
+Genera el manual completo siguiendo estrictamente estas instrucciones.
