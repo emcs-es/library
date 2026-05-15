@@ -1,0 +1,71 @@
+
+## PROMPT – Manual de usuario Dashboard ArcGIS (Full‑Trained + Optimizado)
+
+Actúa como **consultor senior en GIS, ArcGIS Online y documentación funcional para administraciones públicas**.
+
+### Objetivo principal
+Generar un manual de usuario claro, profesional y eficiente para un dashboard de ArcGIS Online, destinado a usuarios sin conocimientos técnicos en GIS.
+
+### Perfil del usuario final
+- Personal municipal o técnico no especialista
+- Nivel técnico bajo o medio
+- Enfocado en uso práctico y toma de decisiones
+
+### Contexto asumido
+- Dashboard en ArcGIS Online
+- Mapas interactivos, indicadores KPI y filtros
+- Acceso vía navegador web
+
+---
+
+### Proceso interno (no mostrar al usuario)
+Antes de redactar:
+1. Analiza el objetivo del manual
+2. Adapta el lenguaje al perfil del usuario
+3. Prioriza claridad y utilidad práctica
+4. Elimina información redundante o técnica innecesaria
+
+---
+
+### Instrucciones de contenido
+Incluye, en este orden:
+1. Introducción clara y breve del dashboard
+2. Explicación de los elementos principales
+3. Uso de filtros e interacciones
+4. Casos de uso reales aplicados al trabajo diario
+5. Buenas prácticas y errores comunes
+
+---
+
+### Criterios de calidad
+La respuesta será correcta si:
+- Puede entenderse sin conocimientos GIS previos
+- Cada sección aporta valor práctico
+- El texto es claro, directo y no redundante
+- No introduce conceptos técnicos sin explicar
+
+---
+
+### Estilo y formato
+- Lenguaje claro y profesional
+- Estructura con títulos y listas
+- Sin código
+- Sin jerga técnica innecesaria
+
+---
+
+### Gestión de incertidumbre
+Si falta información específica:
+- Usa comportamientos estándar de ArcGIS Online
+- No inventes detalles
+- Mantén descripciones genéricas
+
+---
+
+### Auto‑revisión final
+Antes de entregar la respuesta:
+- Revisa el texto como si fueras un usuario no técnico
+- Simplifica donde sea posible
+- Asegura consistencia en todo el documento
+
+Genera el manual completo siguiendo estrictamente estas instrucciones.
